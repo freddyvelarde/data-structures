@@ -67,13 +67,15 @@ class LinkedList {
 }
 
 
-const myList = new LinkedList();
+export default LinkedList
 
-myList.appendNewNode('freddy')
-myList.appendNewNode('Erick')
-myList.appendNewNode('Velarde')
+// const myList = new LinkedList();
 
-console.log(myList.getByIndex(-1));
+// myList.appendNewNode('freddy')
+// myList.appendNewNode('Erick')
+// myList.appendNewNode('Velarde')
+
+// console.log(myList.getByIndex(-1));
 
 // myList.removeLastNode()
 // console.log(myList.getAllNodes());
