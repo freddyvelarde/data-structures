@@ -1,11 +1,11 @@
 {
-  "name": "linked-lists",
+  "name": "linked-list-js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
 	"type": "module",
   "scripts": {
-		"start": "node src/index.js"
+		"start": "node ./index.js"
   },
   "keywords": [],
   "author": "",
