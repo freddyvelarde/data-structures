@@ -1,6 +1,6 @@
 {
   "name": "@fredvel/linked-list-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Linked lists are a very useful linear data structures, similar to arrays",
   "main": "./src/index.js",
   "type": "module",
