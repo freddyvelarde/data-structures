@@ -1,13 +1,21 @@
 {
-  "name": "linked-list-js",
+  "name": "@fredvel/linked-list-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Linked lists are a very useful linear data structures, similar to arrays",
   "main": "index.js",
-	"type": "module",
+  "type": "module",
   "scripts": {
-		"start": "node ./index.js"
+    "start": "node ./index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Freddy Erick Velarde Silva",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fredvel123/data-structures.git#master"
+  },
+  "bugs": {
+    "url": "https://github.com/Fredvel123/data-structures/issues"
+  },
+  "homepage": "https://github.com/Fredvel123/data-structures/tree/master#readme"
 }
