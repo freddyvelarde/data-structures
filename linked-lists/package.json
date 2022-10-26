@@ -1,11 +1,12 @@
 {
   "name": "@fredvel/linked-list-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Linked lists are a very useful linear data structures, similar to arrays",
   "main": "./src/index.js",
   "type": "module",
   "scripts": {
-    "start": "node ./index.js"
+    "start": "node ./src/index.js",
+    "tester": "node ./src/index.tester.js"
   },
   "keywords": [],
   "author": "Freddy Erick Velarde Silva",

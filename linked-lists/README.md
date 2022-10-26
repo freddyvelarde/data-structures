@@ -29,7 +29,19 @@ const mylist = new LinkedList();
 
 # Methods
 
-## appendNewNode()
+1. appendNewNode(value)
+2. getAllNodes()
+3. size()
+4. isEmpty()
+5. insertAt(value, index)
+6. getByIndex()
+7. clear()
+8. removeLastNode()
+9. appendAtHead()
+10. getFirts()
+11. getLast()
+12. insertAtHead()
+13. insertAtTail()
 
 This method allows you append a new element to your linked list, like a array "array.push(element)" and also that new element will be stored in the until of the list.
 
